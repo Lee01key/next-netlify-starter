@@ -7,7 +7,6 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Project Portfolio: Wonki Lee</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
